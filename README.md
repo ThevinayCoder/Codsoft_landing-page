@@ -1,1 +1,1 @@
-# Codsoft_landing-page
+landing-page using html, css and javascript
